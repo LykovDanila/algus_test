@@ -1,6 +1,0 @@
-{
-    "name": "algus_test/my_module",
-    "description": "algus custom module",
-    "type": "drupal-module-custom",
-    "license": "GPL-2.0-or-later"
-}
