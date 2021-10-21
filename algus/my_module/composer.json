@@ -1,15 +1,6 @@
 {
     "name": "algus_test/my_module",
-    "description": "algus custom module",
-    "type": "drupal-module",
-    "authors": [
-        {
-            "name": "Danila Lykov",
-            "email": "d.lykov@algus.net",
-            "homepage": "https://algus.net",
-            "role": "Developer"
-        }
-    ],
-    "license": "GPL-2.0-or-later",
-    "minimum-stability": "dev"
-}
+    "description": "test composer.json file",
+    "type": "drupal-module-custom",
+    "homepage": "https://github.com/LykovDanila"
+  }
