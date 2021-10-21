@@ -1,6 +1,0 @@
-{
-    "name": "algus_test/my_module",
-    "description": "test composer.json file",
-    "type": "drupal-module-custom",
-    "homepage": "https://github.com/LykovDanila"
-  }
