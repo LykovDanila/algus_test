@@ -1,5 +1,5 @@
 {
-    "name": "algus_test/my_module",
+    "name": "algus/my_module",
     "description": "algus custom module",
     "type": "drupal-module",
     "authors": [
